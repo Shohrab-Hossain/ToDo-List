@@ -187,7 +187,7 @@ function addScrollBar(){
 &nbsp;
 
 ## View the project Live
-> [To-Do list app](http://github.com)
+> [To-Do list app](https://todo-app-sh.herokuapp.com)
 
 &nbsp;
 
