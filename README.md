@@ -2,7 +2,7 @@
 
 This is a **`JavaScript`** based project, which is basically a To-Do list app. This app can perform adding a new to-do and modifying an existing to-do along with animation and flash messages on various events, which gives a better user experience. All of the functionality of this app is written using **`JavaScript`** and **`jQuery`**.
 
-The feature of this app is:  
+The features of this app are:  
 1. [Adding new ToDo](#1-adding-new-todo)  
 2. [Mark the ToDo that is completed](#2-mark-the-todo-that-is-completed)  
 3. [Edit a ToDo](#3-edit-a-todo)  
